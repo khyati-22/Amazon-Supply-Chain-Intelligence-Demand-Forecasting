@@ -19,19 +19,53 @@ The project follows a complete analytics lifecycle:
 
 ---
 
-## Business Problem
+# 💼 Business Problem
 
-Large e-commerce organizations such as Amazon must manage thousands of products across multiple stores and regions.
+Efficient inventory management is one of the biggest challenges in supply chain operations.
 
-Key challenges include:
+Poor demand forecasting can result in:
 
-* Predicting future product demand accurately
-* Avoiding stockouts and overstock situations
-* Understanding demand drivers
-* Optimizing inventory allocation
-* Measuring promotion effectiveness
+- Overstocking leading to increased storage costs
+- Stockouts causing lost sales and dissatisfied customers
+- Inefficient procurement planning
+- Poor pricing decisions
+- Reduced operational efficiency
+- Lower profitability
 
-This project aims to solve these challenges using data-driven analytics and machine learning.
+Business leaders require accurate insights into historical demand patterns along with predictive analytics to optimize inventory allocation and improve overall supply chain performance.
+
+This project addresses these challenges by developing an integrated analytics solution capable of identifying demand trends, monitoring inventory performance, evaluating promotional effectiveness, and forecasting future product demand using machine learning.
+
+---
+
+# 🎯 Project Objectives
+
+The primary objectives of this project are:
+
+### 📊 Data Analytics
+
+- Clean and preprocess raw supply chain data.
+- Perform exploratory data analysis to identify trends and anomalies.
+- Analyze sales, demand, pricing, and inventory patterns.
+
+### 🗄 SQL Analytics
+
+- Perform business-oriented SQL analysis.
+- Answer operational and strategic business questions.
+- Generate executive-level insights using SQL queries.
+
+### 🤖 Machine Learning
+
+- Build predictive models for demand forecasting.
+- Compare multiple regression algorithms.
+- Evaluate model performance using industry-standard metrics.
+- Identify the most influential demand drivers.
+
+### 📈 Business Intelligence
+
+- Design interactive Power BI dashboards.
+- Monitor KPIs through dynamic visualizations.
+- Support executive decision-making using business insights.
 
 ---
 
