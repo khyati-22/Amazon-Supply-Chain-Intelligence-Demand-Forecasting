@@ -90,6 +90,37 @@ The dataset contains approximately 76,000 records and 16 business-related attrib
 
 ---
 
+🏗 Project Architecture
+
+```text
+                 Raw Dataset
+                      │
+                      ▼
+              Data Cleaning
+                      │
+                      ▼
+          Feature Engineering
+                      │
+          ┌───────────┴───────────┐
+          ▼                       ▼
+     SQL Analysis           Exploratory Analysis
+          │                       │
+          └───────────┬───────────┘
+                      ▼
+          Machine Learning Models
+                      │
+                      ▼
+            Demand Forecasting
+                      │
+                      ▼
+            Power BI Dashboards
+                      │
+                      ▼
+           Business Recommendations
+```
+
+---
+
 ## Repository Structure
 
 ```text
