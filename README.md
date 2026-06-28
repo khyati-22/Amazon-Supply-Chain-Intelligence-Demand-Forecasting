@@ -843,58 +843,6 @@ Potential future improvements include:
 
 ---
 
-# ⚙️ Installation Guide
-
-Follow the steps below to run the project locally.
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/amazon-supply-chain-intelligence.git
-```
-
-### Navigate to the Project Folder
-
-```bash
-cd amazon-supply-chain-intelligence
-```
-
-### Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Execute the notebooks in the following order:
-
-1. 01_data_cleaning.ipynb
-2. 02_eda.ipynb
-3. 03_sql_import.ipynb
-4. 04_demand_forecasting.ipynb
-
----
-
-# ▶️ How to Run the Project
-
-1. Load the raw dataset.
-2. Perform data cleaning and preprocessing.
-3. Generate engineered features.
-4. Import the cleaned dataset into MySQL.
-5. Execute SQL business queries.
-6. Perform exploratory data analysis.
-7. Train and evaluate machine learning models.
-8. Export prediction files.
-9. Open the Power BI dashboard.
-10. Explore interactive business insights.
-
----
-
 # 📷 Dashboard Preview
 
 Dashboard screenshots will be available in the **images/** folder.
@@ -906,8 +854,6 @@ Suggested screenshots include:
 - Feature Importance Plot
 - Actual vs Predicted Demand
 - SQL Analysis Results
-
-> *(Replace this section with embedded images after uploading dashboard screenshots.)*
 
 ---
 
