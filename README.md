@@ -98,8 +98,11 @@ amazon-supply-chain-intelligence/
 │
 ├── data/
 │   ├── README.md
-│   ├── raw/
-│   └── processed/
+│   ├── raw/demand_forecasting.csv
+│   ├── processed/clean_supply_chain.csv
+│   ├── demand_predictions.csv
+│   ├── feature_importance.csv
+│   └── model_metrics.csv
 │
 ├── notebooks/
 │   ├── README.md
@@ -125,9 +128,15 @@ amazon-supply-chain-intelligence/
 │   ├── dashboard_1.png
 │   └── dashboard_2.png
 │
+├── models/
+│   ├── README.md
+│ 
 ├── presentation/
 │   ├── README.md
 │   └── project_presentation.pptx
+│ 
+├── reports/
+│   ├── README.md
 │
 ├── README.md
 ├── requirements.txt
