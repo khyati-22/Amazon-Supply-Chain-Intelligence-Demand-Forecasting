@@ -196,7 +196,15 @@ amazon-supply-chain-intelligence/
 │
 ├── sql/
 │   ├── README.md
-│   └── business_queries.sql
+│   ├── 01. Database Validation.sql
+│   ├── 02. Dataset Overview.sql
+│   ├── 03. Category analysis.sql
+│   ├── 04. Demand Analysis.sql
+│   ├── 05. Inventory Analysis.sql
+│   ├── 06. Pricing & Promotion Analysis.sql
+│   ├── 07. External Factors Analysis.sql
+│   ├── 08. Advanced SQL Analytics.sql 
+│   └── 09. Executive Business Insights
 │
 ├── powerbi/
 │   ├── README.md
@@ -208,18 +216,21 @@ amazon-supply-chain-intelligence/
 │
 ├── images/
 │   ├── README.md
-│   ├── dashboard_1.png
-│   └── dashboard_2.png
+│   ├── Actual VS Predicted Demand.jpeg
+│   ├── Competitor Pricing VS Demand.jpeg
+│   ├── Correlation Matrix.jpeg
+│   ├── Dashboard 1.png
+│   ├── Dashboard 2.png
+│   ├── Discount Vs Demand.jpeg
+│   ├── Heat Map.jpeg
+│   └── Price Difference Distribution.jpeg
 │
 ├── models/
 │   ├── README.md
 │ 
-├── presentation/
-│   ├── README.md
-│   └── project_presentation.pptx
-│ 
 ├── reports/
 │   ├── README.md
+│   └── Project Report.pdf
 │
 ├── README.md
 ├── requirements.txt
